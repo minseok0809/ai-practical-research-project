@@ -1,0 +1,9 @@
+train_filepath: data/train_dataset.csv
+model_filepath: model.bin
+test_filepath: data/test_dataset.csv
+y_test_filepath: y_test.csv
+y_pred_filepath: y_pred.csv
+y_rand_pred_filepath: y_rand_pred.csv
+random_score_filepath: random_score.txt
+model_score_filepath: model_score.txt
+score_order: high
